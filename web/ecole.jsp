@@ -18,7 +18,7 @@
         <%@include  file="menu.jsp" %>
         <div style="margin-left:20%;padding:1px 16px;height:1000px;">
             <fieldset>
-                <legend>Ajouter Machine</legend>
+                <legend>Ajouter Ecole</legend>
                 <table border="0">
                     <input id="operation" type="hidden" name="operation" value="add" v="" />
                     <tr>
