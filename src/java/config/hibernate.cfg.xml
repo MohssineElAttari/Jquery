@@ -50,5 +50,6 @@ Contributor(s):
     <property name="hibernate.hbm2ddl.auto">create</property>
     <mapping class="beans.Machine"/>
     <mapping class="beans.Service"/>
+    <mapping class="beans.Ecole"/>
   </session-factory>
 </hibernate-configuration>
