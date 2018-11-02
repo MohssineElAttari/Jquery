@@ -49,6 +49,6 @@ Contributor(s):
     <property name="hibernate.format_sql">true</property>
     <property name="hibernate.hbm2ddl.auto">create</property>
     <mapping class="beans.Machine"/>
-    <mapping class="beans.Ecole"/>
+    <mapping class="beans.Service"/>
   </session-factory>
 </hibernate-configuration>
