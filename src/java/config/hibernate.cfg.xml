@@ -51,5 +51,6 @@ Contributor(s):
     <mapping class="beans.Machine"/>
     <mapping class="beans.Service"/>
     <mapping class="beans.Ecole"/>
+    <mapping class="beans.Professeur"/>
   </session-factory>
 </hibernate-configuration>
